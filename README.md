@@ -1,4 +1,3 @@
-## Hi there 👋
 <a href="https://app.daily.dev/pouria56"><img src="https://api.daily.dev/devcards/v2/3pQbqWAmlRyPRqU875zWX.png?type=default&r=3p3" width="356" alt="Pouria's Dev Card"/></a>
 
 <!--
