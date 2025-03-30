@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/pouria56"><img src="https://api.daily.dev/devcards/v2/3pQbqWAmlRyPRqU875zWX.png?type=wide&r=3p3" width="452" alt="Pouria's Dev Card"/></a>
+<a href="https://app.daily.dev/pouria56"><img src="https://api.daily.dev/devcards/v2/3pQbqWAmlRyPRqU875zWX.png?type=wide&r=9lb" width="352" alt="Pouria's Dev Card"/></a>
 
 <!--
 **pouriamrt/pouriamrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
