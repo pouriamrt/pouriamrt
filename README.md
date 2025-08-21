@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/pouriamrt"><img src="https://api.daily.dev/devcards/v2/3pQbqWAmlRyPRqU875zWX.png?type=wide&r=axg" width="652" alt="Pouria's Dev Card"/></a>
+<a href="https://app.daily.dev/pouriamrt"><img src="https://api.daily.dev/devcards/v2/3pQbqWAmlRyPRqU875zWX.png?type=wide&r=axg" width="400" alt="Pouria's Dev Card"/></a>
 
 ![pouriamrt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pouriamrt&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
