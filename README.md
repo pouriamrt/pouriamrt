@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I’m an AI researcher working on advanced biomedical NLP, knowledge-graph RAG systems, and automated full-text screening tools for systematic reviews. I enjoy collaborating on open source AI projects, clinical NLP pipelines, graph machine learning, reinforcement learning, and cloud-native data engineering. I’m currently learning more about Graph Neural Networks, LangGraph orchestration, and scalable MLOps with AWS. I’m always happy to talk about AI, cybersecurity, RAG architectures, PyTorch Geometric, or any of the projects I build on GitHub. 
+I’m an AI researcher working on advanced NLP, knowledge-graph RAG systems, and automated full-text screening tools for systematic reviews. I enjoy collaborating on open source AI projects, NLP pipelines, graph machine learning, reinforcement learning, and cloud-native data engineering. I’m currently learning more about Graph Neural Networks, LangGraph orchestration, and scalable MLOps with AWS and GCP. I’m always happy to talk about AI, cybersecurity, RAG architectures, PyTorch Geometric, or any of the projects I build on GitHub. 
 
 
 ## 🌐 Socials:
